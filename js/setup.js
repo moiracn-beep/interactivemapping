@@ -75,11 +75,11 @@ L.control.layers(baseMaps).addTo(map);
 
 
 // Make a simple circle
-var circle = L.circle([40.44, -79.94], {
-    color: 'red',
+var circle = L.circle([40.44152556360597, -79.95678306119423], {
+    color: 'blue',
     fillColor: '#f03',
     fillOpacity: 0.5,
-    radius: 100
+    radius: 10
 }).addTo(map);
 
 // Make a shape
