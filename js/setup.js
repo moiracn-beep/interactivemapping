@@ -79,7 +79,7 @@ var circle = L.circle([40.44, -79.94], {
     color: 'red',
     fillColor: '#f03',
     fillOpacity: 0.5,
-    radius: 1000
+    radius: 500000
 }).addTo(map);
 
 // Make a shape
